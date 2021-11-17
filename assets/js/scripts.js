@@ -10,7 +10,7 @@ console.log(phone);
 
 function form() {
     if (nom.value.length < 3) {
-        alert('toto');
+        alert('toto');git 
     } else {
         return ("le nom est ok");
     }

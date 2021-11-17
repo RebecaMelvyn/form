@@ -27,7 +27,7 @@
             <textarea type="number" id="phone" name="user_phone"></textarea>
         </div>
         <div>
-            <label for="msg">Message :</label>
+            <label for="msg">Meessage :</label>
             <textarea id="msg" name="user_message"></textarea>
         </div>
         <div>
